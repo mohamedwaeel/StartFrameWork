@@ -1,0 +1,14 @@
+#about{
+    background-color: #1ABC9C;
+    height: 75vh;
+}
+ .half-line{
+    width: 50px;
+height: 5px;
+background-color: white;
+margin-top: 5px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}

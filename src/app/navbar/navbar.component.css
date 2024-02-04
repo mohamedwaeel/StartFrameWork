@@ -1,0 +1,25 @@
+nav{
+    background-color: #2C3E50;
+}
+a{
+    color: white;
+}
+.navbar-brand{
+    font-size: 32px;
+    font-weight: 700;
+}
+.nav-link{
+    font-weight:700 ;
+}
+.nav-link.active{
+    color:white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #1ABC9C;
+}
+a:hover{
+    color: white;
+}
+li{
+    margin-inline: 10px;
+}
